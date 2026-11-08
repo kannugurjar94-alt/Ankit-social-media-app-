@@ -1,0 +1,6 @@
+{
+  "name": "AnkitVerse",
+  "description": "Next-gen social network with Instagram feeds, CapCut-style video studio, iOS glassmorphism UI, rainbow smoke touch particles, and 500k creator monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
